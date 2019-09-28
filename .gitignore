@@ -1,1 +1,4 @@
 .ipynb_checkpoints
+__pycache__
+ml-100k
+ml-1m
